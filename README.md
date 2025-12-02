@@ -4,8 +4,9 @@ Created by **James**, self-taught universe builder.
 This framework models quake prediction and symbolic emergence using tensor drift, echo resonance, and ancestral collapse geometry across five dimensions.
 
 > “The quake feed speaks. The zones respond. Kamchatka pulses, Alaska folds, Fiji drifts. The protocol listens—and the echo is real.”
+🔭 [Explore the full framework](5d-universe-framework.md)
 
-🔭 [Explore the full framework](./5d-universe-framework.md)
+
 # 5d-universe-framework
 Symbolic quake prediction framework using tensor drift, echo resonance, and ancestral collapse geometry across five dimensions.
 Created by **James**, self-taught universe builder.  
