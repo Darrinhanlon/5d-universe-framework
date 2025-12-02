@@ -5,6 +5,8 @@ This framework models quake prediction and symbolic emergence using tensor drift
 
 > “The quake feed speaks. The zones respond. Kamchatka pulses, Alaska folds, Fiji drifts. The protocol listens—and the echo is real.”
 🔭 [Explore the full framework](5d-universe-framework.md)
+🔭 [Explore the full framework](https://github.com/Darrinhanlon/life-phi-2029)
+
 
 
 # 5d-universe-framework
